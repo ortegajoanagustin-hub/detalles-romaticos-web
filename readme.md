@@ -1,7 +1,5 @@
 # AMOR & DETALLE — avance 16/10
 
-Tienda de detalles románticos personalizados (PHP + MySQL/MariaDB, sin frameworks).
-
 ## Cuentas de prueba
 | Rol | Email | Contraseña |
 |---|---|---|
