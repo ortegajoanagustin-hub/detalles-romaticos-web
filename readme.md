@@ -2,15 +2,6 @@
 
 Tienda de detalles románticos personalizados (PHP + MySQL/MariaDB, sin frameworks).
 
-## Instalación en XAMPP (5 pasos)
-1. Copiá la carpeta `detalles_romanticos/` dentro de `C:\xampp\htdocs\`.
-2. Iniciá **Apache** y **MySQL** desde el panel de XAMPP.
-3. En phpMyAdmin → pestaña **SQL** → pegá el contenido de `database/detalles_romanticos.sql` → **Continuar**.
-   (Borra y recrea las tablas; reemplaza las viejas `productos` y `detalle_pedidos`.)
-   Si ya tenés la base creada y solo querés sumar las direcciones, usá `database/migracion_direccion.sql`.
-4. Si tu MySQL tiene contraseña, editá `config/conexion.php` (por defecto: root, sin clave).
-5. Abrí http://localhost/detalles_romanticos/
-
 ## Cuentas de prueba
 | Rol | Email | Contraseña |
 |---|---|---|
