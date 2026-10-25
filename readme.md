@@ -6,8 +6,6 @@
 | Administrador | admin@amordetalle.com | Admin1234 |
 | Cliente | cliente@amordetalle.com | Cliente1234 |
 
-(Cambiarlas antes de publicar el sitio.)
-
 ## Estructura
 ```
 config/conexion.php        conexión PDO
